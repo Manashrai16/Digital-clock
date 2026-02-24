@@ -1,0 +1,2 @@
+# Digital-clock
+A real-time Digital Clock Application built using Java Swing and AWT. The application displays the current system time with second-by-second updates using multithreading. It utilizes SimpleDateFormat and Calendar classes for time formatting and features a clean GUI with custom fonts and layout styling.
